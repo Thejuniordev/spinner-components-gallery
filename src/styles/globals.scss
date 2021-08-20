@@ -21,3 +21,11 @@ a {
   padding: 0 15px;
   margin: 0 auto;
 }
+
+.home {
+  &__header {
+    position: relative;
+    width: 100%;
+    height: 100px;
+  }
+}

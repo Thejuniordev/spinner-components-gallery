@@ -12,6 +12,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="container">
+        <header className="home__header">
+
+        </header>
         <Card></Card>
       </div>
     </div>
