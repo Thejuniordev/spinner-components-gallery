@@ -12,8 +12,8 @@ export default function Home() {
         <meta name="description" content="Spinner Galery" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <Header></Header>
       <div className="home__content">
-        <Header></Header>
         <div className="container">
           
           <Card></Card>
