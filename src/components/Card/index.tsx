@@ -7,6 +7,10 @@ export default function Card() {
                 <strong className={styles.card__title}> Spinner 1</strong>
             </header>
 
+            <div className={styles.card__spinner}>
+                
+            </div>
+
             <button className={styles.card__btn}>
 
             </button>
